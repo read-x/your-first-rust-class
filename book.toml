@@ -1,0 +1,6 @@
+[book]
+authors = ["czyt"]
+language = "en"
+multilingual = false
+src = "src"
+title = "陈天·Rust编程第一课"
